@@ -2,8 +2,6 @@
 
 Vue.js toast notification plugin for vue 3
 
-[DEMO](https://meforma.github.io/vue-toaster/)
-
 ## Installation
 
 ```bash
